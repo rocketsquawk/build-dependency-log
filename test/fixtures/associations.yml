@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  dependent_build: 
+  dependent_project_name: MyString
+  dependent_build_version: MyString
+  dependency_build: 
+  dependency_project_name: MyString
+  dependency_build_version: MyString
+
+two:
+  dependent_build: 
+  dependent_project_name: MyString
+  dependent_build_version: MyString
+  dependency_build: 
+  dependency_project_name: MyString
+  dependency_build_version: MyString
